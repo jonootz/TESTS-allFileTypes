@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="164" MadCap:lastWidth="1456">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="author" content="" /><title></title>
+        <link href="../Stylesheets/StylesForHomePage.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div id="contentBody" class="off-canvas-main">
+            <MadCap:bodyProxy />
+            <div class="footer center">
+                <div class="row outer-row">
+                    <div class="small-12 medium-8 columns">
+                        <div>
+							<a href="../../D_Other/TOC.htm">Contents</a>
+							<a href="../../C_More Information/PDF Downloads.htm">PDFs</a>
+							<a href="../../C_More Information/Best Practices.htm">Tips</a>
+							<a href="../../C_More Information/FAQs.htm">FAQs</a>
+							<a href="../../C_More Information/Company Information.htm">Company</a>
+                        </div>
+                        <p class="Copyright">
+						Copyright © 2015 <MadCap:variable name="General.CompanyName" /></p>
+                    </div>
+                    <div class="small-12 medium-4 columns">
+					<a href="https://twitter.com/#!/MadCapDocTeam" target="_blank"><img src="../Images/TwitterIcon.png" alttext="" /></a>
+					<a href="http://www.facebook.com/madcapdocteam" target="_blank"><img src="../Images/FacebookIcon.png" alttext="" /></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
