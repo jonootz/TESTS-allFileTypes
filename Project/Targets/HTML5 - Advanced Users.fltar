@@ -12,7 +12,8 @@
   ResultsPerPage="10"
   Skin="/Project/Skins/HTML5 - Top Navigation.flskn"
   ConditionTagExpression="include[General.Advanced] exclude[General.Beginner] "
-  DefaultUrl="/Content/Home.htm">
+  DefaultUrl="/Content/Home.htm"
+  OutputFile="fileAdv">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
