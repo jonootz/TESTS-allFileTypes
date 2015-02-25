@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultAliasFile>
+    <Map Name="A_BASIC_STEPS" Link="/Content/A_Getting Started/Basic Steps.htm" />
+    <Map Name="A_GETTING_STARTED" Link="/Content/A_Getting Started/Getting Started.htm" />
+    <Map Name="A_WHATS_NEW" Link="/Content/A_Getting Started/Whats New.htm" />
+    <Map Name="B_LISTS" Link="/Content/B_Features/Links and Lists/Lists.htm" />
+    <Map Name="B_LINKSANDLISTS" Link="/Content/B_Features/Links and Lists/LinksAndLists.htm" />
+    <Map Name="B_LINKS" Link="/Content/B_Features/Links and Lists/Links.htm" />
+    <Map Name="B_THUMBNAILIMAGE" Link="/Content/B_Features/Images/ThumbnailImage.htm" />
+    <Map Name="B_IMAGES" Link="/Content/B_Features/Images/Images.htm" />
+    <Map Name="B_IMAGEPOSITIONEDLEFT" Link="/Content/B_Features/Images/ImagePositionedLeft.htm" />
+    <Map Name="B_TABLES" Link="/Content/B_Features/Features/Tables.htm" />
+    <Map Name="B_NOTESEXAMPLESBLOCKQUOTES" Link="/Content/B_Features/Features/NotesExamplesBlockquotes.htm" />
+    <Map Name="B_CONDITIONS" Link="/Content/B_Features/Features/Conditions.htm" />
+    <Map Name="B_FEATURES" Link="/Content/B_Features/Features.htm" />
+    <Map Name="C_PDF_DOWNLOADS" Link="/Content/C_More Information/PDF Downloads.htm" />
+    <Map Name="C_MORE_INFORMATION" Link="/Content/C_More Information/More Information.htm" />
+    <Map Name="C_FAQS" Link="/Content/C_More Information/FAQs.htm" />
+    <Map Name="C_COMPANY_INFORMATION" Link="/Content/C_More Information/Company Information.htm" />
+    <Map Name="C_BEST_PRACTICES" Link="/Content/C_More Information/Best Practices.htm" />
+    <Map Name="D_TOC" Link="/Content/D_Other/TOC.htm" />
+</CatapultAliasFile>
